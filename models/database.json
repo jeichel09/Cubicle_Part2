@@ -1,0 +1,37 @@
+[
+  {
+    "id": "02e177",
+    "name": "Eco-Dark",
+    "description": "A really dark one",
+    "imageUrl": "https://thingsidesire.com/wp-content/uploads/2018/06/Eco-Dark-Rubik%E2%80%99s-Cube2.jpg",
+    "difficultyLevel": 6
+  },
+  {
+    "id": "02e225",
+    "name": "Pyraminx",
+    "description": "Where's the pharao?",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61izOzq%2BBAL._SY355_.jpg",
+    "difficultyLevel": 1
+  },
+  {
+    "id": "02e116",
+    "name": "Megaminx",
+    "description": "This one looks like a ball",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61HpQqVQ37L._SY355_.jpg",
+    "difficultyLevel": 3
+  },
+  {
+    "id": "02e737",
+    "name": "3 X 15 MagicCube",
+    "description": "Yet again",
+    "imageUrl": "/static/images/fifteenXfifteen.jpg",
+    "difficultyLevel": 6
+  },
+  {
+    "id": "02e797",
+    "name": "Gan356 Air SM",
+    "description": "Magnets in AirSM will not drop, and their positions will be more precise with the Magnets-Snap-On design.",
+    "imageUrl": "https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg",
+    "difficultyLevel": 3
+  }
+]
